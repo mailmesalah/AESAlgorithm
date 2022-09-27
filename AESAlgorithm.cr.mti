@@ -1,0 +1,14 @@
+I:/wORkShOP/Freelancer.Com/AESAlgorithm/AES128.v {0 {vlog -work work -stats=none I:/wORkShOP/Freelancer.Com/AESAlgorithm/AES128.v
+Model Technology ModelSim PE Student Edition vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module AESAlgorithm
+** Error: (vlog-13038) I:/wORkShOP/Freelancer.Com/AESAlgorithm/AES128.v(6): near ",": Missing port in ansi port list.
+
+
+} {4.0 5.0} {}} I:/wORkShOP/Freelancer.Com/AESAlgorithm/TestModules.v {1 {vlog -work work -stats=none I:/wORkShOP/Freelancer.Com/AESAlgorithm/TestModules.v
+Model Technology ModelSim PE Student Edition vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module AESAlgorithm
+
+Top level modules:
+	AESAlgorithm
+
+} {} {}}
